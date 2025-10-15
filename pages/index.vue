@@ -66,12 +66,12 @@
 				<p class="text-sm text-gray-500 italic">
 					A professional tool by
 					<a
-						href="https://github.com/eugenehealthcaregps"
+						href="https://www.linkedin.com/in/eugenebadato/"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="font-semibold text-indigo-600 hover:text-indigo-800 transition-colors underline decoration-2 decoration-indigo-300 hover:decoration-indigo-500"
 					>
-						Eugene HealthcareGPS
+						@eugenebadato
 					</a>
 				</p>
 			</div>
@@ -335,7 +335,7 @@
 								<span
 									class="text-base font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent"
 								>
-									Eugene HealthcareGPS
+									@eugenebadato
 								</span>
 							</div>
 
@@ -348,7 +348,7 @@
 							<!-- Social Links -->
 							<div class="flex items-center gap-4">
 								<a
-									href="https://github.com/eugenehealthcaregps"
+									href="https://github.com/akocero"
 									target="_blank"
 									rel="noopener noreferrer"
 									class="inline-flex items-center gap-1.5 px-4 py-2 bg-gray-900 hover:bg-gray-800 text-white text-xs font-semibold rounded-lg transition-all duration-200 transform hover:scale-105 shadow-md"
@@ -385,8 +385,8 @@
 					</div>
 
 					<p class="text-xs text-gray-500 mt-2">
-						© 2025 Eugene HealthcareGPS • Open Source • Made for
-						People Who Deserve Better
+						© 2025 eugenebadato. • Open Source • Made for People Who
+						Deserve Better
 					</p>
 				</div>
 			</footer>
