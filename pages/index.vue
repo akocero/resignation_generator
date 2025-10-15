@@ -296,14 +296,15 @@
 							stroke="currentColor"
 							viewBox="0 0 24 24"
 						>
+							<!-- Language SVG Icon -->
 							<path
 								stroke-linecap="round"
 								stroke-linejoin="round"
 								stroke-width="2"
-								d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"
-							></path>
+								d="M12 3v2m0 14v2m7-7h2M3 12H5m12.364-7.364l1.414 1.414M4.222 19.778l1.414-1.414M19.778 19.778l-1.414-1.414M4.222 4.222l1.414 1.414M8 12a4 4 0 108 0 4 4 0 10-8 0z"
+							/>
 						</svg>
-						100% Private
+						Multilingual
 					</span>
 				</div>
 			</div>
