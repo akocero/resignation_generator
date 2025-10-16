@@ -66,7 +66,7 @@
 				<p class="text-sm text-gray-500 italic">
 					A professional tool by
 					<a
-						href="https://www.linkedin.com/in/eugenebadato/"
+						href="https://www.eugenebadato.com/"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="font-semibold text-indigo-600 hover:text-indigo-800 transition-colors underline decoration-2 decoration-indigo-300 hover:decoration-indigo-500"
